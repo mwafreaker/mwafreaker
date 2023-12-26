@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wycliffe Ong'owo, a Software Developer based in Nairobi, Kenya
-- ♨ I’m interested in the JavaScript language
-- 🌱 I’m currently learning DevOps Engineering precicely orcherstration of containers
-- 💞️ I’m looking forward to collaborate on web3. Writing smart contracts is beginning to kick in nicely😄
-- 📫 For now you could reach me through my twitter DM @Ongowo_ or through my number +254741540501 on Whatsapp
+- 🗽 Currently fulfilling my interests in the JavaScript language
+- 🌱 Learning DevOps and CI/CD pipeline
+- ⛓ Looking forward to collaborate on Blockchain
+- 🌍 Reach me through my X account(@Ongowo_) or through my number Whatsapp number on +254741540501
