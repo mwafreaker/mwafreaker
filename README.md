@@ -2,4 +2,4 @@
 - 🗽 Currently fulfilling my interests in the JavaScript language
 - 🌱 Learning DevOps and CI/CD pipeline
 - ⛓ Looking forward to collaborate on Blockchain
-- 🌍 Reach me through my X account(@Ongowo_) or through my number Whatsapp number on +254741540501
+- 🌍 Reach me through my X account(@Ongowo_)
